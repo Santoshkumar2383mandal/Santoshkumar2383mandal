@@ -2,15 +2,11 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#f05454;">Santosh Kumar Mandal</span></h1>
 <h3 align="center">🚀 Full Stack Developer | 💡 DSA Enthusiast | 🌍 India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Frontend+%7C+Backend+%7C+DevOps;Java+%7C+React+%7C+Node.js+%7C+DSA;Learning+Something+New+Every+Day+💻" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **React.js, Node.js, Docker & DevOps**
+- 🌱 I’m currently learning **React.js, Node.js **
 - 🔭 Working on real-world full stack projects
 - 🧠 Practicing **DSA** daily on LeetCode
 - 💬 Ask me about **Java, DSA, Web Development**
