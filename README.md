@@ -1,43 +1,71 @@
-<h1 align="center">Hi 👋, I'm Santosh Kumar Mandal</h1>
-<h3 align="center">A passionate Full Stack Developer & DSA Enthusiast from India</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm <span style="color:#f05454;">Santosh Kumar Mandal</span></h1>
+<h3 align="center">🚀 Full Stack Developer | 💡 DSA Enthusiast | 🌍 India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Frontend+%7C+Backend+%7C+DevOps;Java+%7C+React+%7C+Node.js+%7C+DSA;Learning+Something+New+Every+Day+💻" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **React.js, Node.js, and DevOps**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Santoshkumar2383mandal?tab=repositories)
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 I’m currently learning **React.js, Node.js, Docker & DevOps**
+- 🔭 Working on real-world full stack projects
+- 🧠 Practicing **DSA** daily on LeetCode
 - 💬 Ask me about **Java, DSA, Web Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/santosh-kumar-mandal-125762246/)
-- ⚡ Fun fact: I love debugging more than coding 😄
+- 📫 Reach me: [LinkedIn →](https://www.linkedin.com/in/santosh-kumar-mandal-125762246/)
+- ⚡ Fun fact: I’m addicted to clean code and chai ☕
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,git,github,html,css,tailwind,linux,docker" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santoshkumar2383mandal&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santoshkumar2383mandal&theme=radical" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santoshkumar2383mandal&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Santoshkumar2383mandal&theme=radical" width="47%" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
+### 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://linkedin.com/in/santosh-kumar-mandal-125762246" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Santoshkumar2383mandal&theme=radical&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Santoshkumar2383mandal/Santoshkumar2383mandal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santosh-kumar-mandal-125762246/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:santoshmandaldev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Santoshkumar2383mandal">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">⚡ Keep Learning, Keep Building!</p>
